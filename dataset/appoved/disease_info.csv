@@ -1,0 +1,1456 @@
+DiseaseID,Disease_Name
+DIS01GPL,Grass pollen hypersensitivity
+DIS02PWG,Rosacea
+DIS0301E,Chronic myelogenous leukaemia
+DIS04U9T,Streptococcus infection
+DIS05URM,Osteoarthritis
+DIS070UC,Renal failure
+DIS07FAB,Pneumonic plague
+DIS08UKE,Postpartum depression
+DIS093I0,Immunodeficiency
+DIS0AFR7,Insomnia
+DIS0BM1I,Acute myeloid leukaemia
+DIS0D2NT,Opioid-induced constipation
+DIS0DFZ0,Plasma cell myeloma
+DIS0DGX4,Aspiration pneumonia
+DIS0GXTE,Imaging
+DIS0HQZH,Adult central nervous system germ cell tumor
+DIS0HU8N,Urinary tract disease
+DIS0I87H,Hamartoma
+DIS0IHMD,Intestinal amebiasis
+DIS0IJEF,Pancreatitis
+DIS0J828,Hepatocellular carcinoma
+DIS0JDQW,Heterozygous familial hypercholesterolemia
+DIS0JTN6,Malignant peripheral nerve sheath tumor
+DIS0M750,Acquired methemoglobinemia
+DIS0MMFT,Lymphogranuloma venereum
+DIS0MRKJ,Serum sickness
+DIS0NMK3,Childhood kidney Wilms tumor
+DIS0NZSB,Ulcerative proctosigmoiditis
+DIS0O0AU,Anaerobic bacteria infectious disease
+DIS0PH5V,Peptostreptococcus infectious disease
+DIS0QADF,Graft-versus-host disease
+DIS0QBRC,Obstructive hypertrophic cardiomyopathy
+DIS0QDLG,Mammary tumour
+DIS0R2VM,Epicondylitis
+DIS0RGK9,Bone giant cell tumor
+DIS0RQ2E,Haemophilia A
+DIS0RYDF,Ocular inflammation
+DIS0SVD1,Obstructive sleep apnea
+DIS0TC0G,Dermatitis herpetiformis
+DIS0TXIR,Hepatitis E virus infection
+DIS0U6CJ,Diabetes insipidus
+DIS0UITQ,"Sick sinus syndrome 2, autosomal dominant"
+DIS0VQYF,Iron-deficiency anemia
+DIS0VUZL,Osteomyelitis
+DIS0WGPC,Late latent syphilis
+DIS0X75X,Acute bronchitis
+DIS0XS2C,Age-related macular degeneration
+DIS0XXBJ,Alopecia areata
+DIS0YD2E,Menopausal and postmenopausal disorder
+DIS10XOM,Folliculitis
+DIS13V4C,In situ carcinoma
+DIS152XL,Periventricular leukomalacia
+DIS15SCZ,Lung abscess
+DIS15W6U,Atrial fibrillation
+DIS162FN,Diabetic macular edema
+DIS175N9,Metastasis from malignant tumor of colon
+DIS178WT,Medical abortion
+DIS17AI2,T-cell acute lymphoblastic leukaemia
+DIS17SNY,Epithelioid mesothelioma
+DIS184KT,Skin inflammation
+DIS18R3K,Metastatic colorectal cancer
+DIS19659,Caerulein stimulated gastric and pancreatic secretion
+DIS19CIB,Magnetic resonance imaging of liver
+DIS19L71,Pediatric growth disorder
+DIS1A2CS,Multi-drug resistant tuberculosis
+DIS1A2OI,Clostridioides difficile infection
+DIS1AK7Q,Diverticulitis
+DIS1AVVE,MALT lymphoma
+DIS1AW2Z,Mycoplasma pneumoniae pneumonia
+DIS1CYA2,Convulsion
+DIS1D29X,Endemic typhus
+DIS1EAZC,Hemangioblastoma
+DIS1EPQ3,Congenital hyperinsulinism
+DIS1G4NZ,Dermal necrosis
+DIS1GS6H,Hereditary amyloidosis
+DIS1H502,Estrogen-receptor positive breast cancer
+DIS1H91S,Taeniasis
+DIS1IYUN,Congenital alveolar dysplasia
+DIS1JCGA,Vasomotor symptom
+DIS1K07K,Cerebral salt-wasting syndrome
+DIS1K9V6,Pityriasis simplex
+DIS1KXME,Melasma
+DIS1KZD2,Hyperkalemia
+DIS1LBC6,Cryptococcal meningitis
+DIS1LDG6,Congenital alopecia
+DIS1M07D,Hyperglyceridemia
+DIS1MM9J,Chronic graft versus host disease
+DIS1OPZG,Shingles
+DIS1QT3G,Hypopituitarism
+DIS1RRCY,Melanoma
+DIS1RSP5,Pulmonary hypertension
+DIS1S8P6,Hemophilia
+DIS1SW33,Dermatomycosis
+DIS1TYXP,Postencephalitic Parkinson disease
+DIS1UU1B,Methamphetamine dependence
+DIS1UUNY,Malnutrition
+DIS1UZJO,Vitamin K deficiency
+DIS1VHIK,Obsolete atrophic vulva
+DIS1VI2T,Urinary system neoplasm
+DIS1W8PP,Tachyarrhythmias
+DIS1ZMM2,Obsessive compulsive disorder
+DIS1ZWY2,Tinea manuum
+DIS2035C,Turner syndrome
+DIS208D8,Chlamydiaceae infections
+DIS22F5I,Somatotropin deficiency
+DIS24TP9,Chemotherapy-induced nausea
+DIS261VG,Strongyloidiasis
+DIS26F9Q,Pancreatic ductal carcinoma
+DIS27206,Irritable bowel syndrome
+DIS27CUA,Bleeding disorder
+DIS2840R,Mature gastrointestinal nematode infection
+DIS28NEL,Acute monocytic leukemia
+DIS28ZSZ,Staphylococcal pneumonia
+DIS296ZU,Chronic HBV infection
+DIS2AOPI,Pulmonary and extrapulmonary tuberculosis
+DIS2C5Q8,Crohn disease
+DIS2C8B6,Examination of eyes or vision
+DIS2D4B9,Cystitis
+DIS2EKMJ,Streptococcal pneumonia
+DIS2FCCT,Diabetic nephropathy
+DIS2FDOT,Obstructive jaundice
+DIS2FMH1,Mycotic endocarditis
+DIS2I5AB,Tinea corporis
+DIS2IQDX,Cardiovascular disease
+DIS2NCLN,Myeloproliferative syndrome
+DIS2OK1Q,Cystic fibrosis
+DIS2OKP1,Delirium
+DIS2OMMF,Liver disease
+DIS2POYG,Atypical endometrial hyperplasia
+DIS2R89Y,Joint pain
+DIS2TXP8,Thrombosis
+DIS2U1JN,Cutaneous candidiasis
+DIS2U1Q9,Intrinsic asthma
+DIS2UE88,Breast carcinoma
+DIS2VPOR,Intra ocular pressure reduction
+DIS2WZUR,Trachoma
+DIS2XHCT,Plasmodium malariae malaria
+DIS2XZ0U,Appendiceal neoplasm
+DIS2Y594,Calciphylaxis
+DIS2YIMD,Tuberculosis
+DIS2ZMIF,Peritoneal neoplasm
+DIS30POX,Small lymphocytic lymphoma
+DIS31ZY6,Trigeminal neuralgia
+DIS32MEA,Congestive heart failure
+DIS335K9,Night blindness
+DIS33OFF,Neisseria meningitis infection
+DIS33W79,Meningococcemia
+DIS34VRT,Appetite suppressant
+DIS34WJ5,Chronic fatigue syndrome
+DIS35WVW,Primary cutaneous T-cell lymphoma
+DIS36LV6,Vernal keratoconjunctivitis
+DIS37HU4,Alopecia
+DIS38BN3,Ocular allergy
+DIS3DNQW,Posterior urethra cancer
+DIS3DOIC,Ornithine transcarbamylase deficiency
+DIS3E9S1,Hypocholesterolemia
+DIS3FXDI,Mucositis
+DIS3GNQ4,"Spinal muscular atrophy, type II"
+DIS3IHTY,Adenocarcinoma
+DIS3K8ZM,Proctitis
+DIS3KGNY,Urgency
+DIS3KLUX,"Blast phase chronic myelogenous leukemia, BCR-ABL1 positive"
+DIS3KQVI,Toxicity
+DIS3LDOU,Thrombotic thrombocytopenic purpura
+DIS3LXUG,Cutaneous squamous cell carcinoma
+DIS3M6SR,Preterm premature rupture of the membranes
+DIS3MADM,Common cold
+DIS3MMH9,Cutaneous melanoma
+DIS3N7H0,Eczema
+DIS3NL90,Bronchial asthma
+DIS3OMWS,Metachromatic leukodystrophy
+DIS3PNU3,Influenza
+DIS3Q9KF,Plasmodium falciparum malaria
+DIS3QRWA,Inflammatory breast cancer
+DIS3SD7J,Corneal abrasion
+DIS3TZCH,Von willebrand disease
+DIS3U0LK,Pancreatic tumour
+DIS3U12J,Urinary incontinence
+DIS3U9HN,Allergic rhinitis
+DIS3UASE,Pasteurella multocida infectious disease
+DIS3VIP5,infection in the ear canal
+DIS3VKEI,Exostosis
+DIS3VLDH,Thyroid cancer
+DIS3WGAL,Hyperaldosteronism
+DIS3X247,Type-2 diabetes
+DIS3XJ69,Depression
+DIS3YBRD,Hyperemesis gravidarum
+DIS3ZNAK,Hidradenitis suppurativa
+DIS40YPP,Refractory chronic myeloid leukaemia
+DIS4278E,Stomach ulcer
+DIS42T63,Skin photodamage
+DIS43E0O,Primary biliary cholangitis
+DIS43J58,Invasive ductal breast carcinoma
+DIS45J3D,Post-traumatic epilepsy
+DIS47W6X,Molluscum contagiosum infection
+DIS47Y1K,Obesity
+DIS487SI,Hereditary haemolytic anemia
+DIS48YMM,Thyroid gland papillary carcinoma
+DIS48ZAP,Allergy
+DIS492ZO,Niemann-Pick disease type C
+DIS49YWI,Benzodiazepine overdose
+DIS4AFTN,Cervicofacial actinomycosis
+DIS4AO5Z,Acute bacterial skin infection
+DIS4AT5W,Miliary tuberculosis
+DIS4CL3X,Major depressive disorder
+DIS4EJNA,Gestational trophoblastic neoplasia
+DIS4FVAT,Hyperparathyroidism
+DIS4G1GX,Liver cirrhosis
+DIS4GHSB,Cerebral edema
+DIS4GOLF,Appendicitis
+DIS4GUSE,Rickettsiosis
+DIS4IIDZ,Obstructive lung disease
+DIS4IMNF,Gastrinoma
+DIS4IXDI,Chromomycosis
+DIS4KMW5,Cervicitis
+DIS4LKDT,Acute gonococcal cervicitis
+DIS4LY5L,Focal epilepsy
+DIS4NGG7,Trichuris trichiura infection
+DIS4OCQM,Dermatofibrosarcoma protuberans
+DIS4PG4J,Blepharoconjunctivitis
+DIS4Q1R7,Geographic atrophy
+DIS4R0UE,Traveler's diarrhea
+DIS4R2OG,Hyperlipidaemia
+DIS4RWOW,Pain
+DIS4S2FC,Diabetic complication
+DIS4UOE3,Musculoskeletal pain
+DIS4UQOT,Psychotic disorder
+DIS4UWVC,Coronary artery disease
+DIS4W83X,Minimally invasive lung adenocarcinoma
+DIS4WDHV,Dehydrated hereditary stomatocytosis with or without pseudohyperkalemia and/or perinatal edema
+DIS4X9QM,Heart block
+DIS4XF8N,Congenital generalized lipodystrophy
+DIS4YMZ8,Ornithosis
+DIS4ZSCO,Alcohol dependence
+DIS508KP,Procedural sedation
+DIS50C5O,Dermatomyositis
+DIS50TOO,Nausea
+DIS51975,Pervasive developmental disorder
+DIS51FA4,Cough
+DIS51GJ5,Urinary retention
+DIS51J8E,Anaphylaxis
+DIS51W5K,Recurrent herpes labialis
+DIS51WT2,Spasm
+DIS53JH9,Neurofibromatosis type 1
+DIS53TUF,Non-arteritic anterior ischemic optic neuropathy
+DIS55P6V,Inclusion conjunctivitis
+DIS56IFV,Pheochromocytoma
+DIS56MH2,Epithelial ovarian cancer
+DIS57XO9,Lymphatic disease
+DIS58KQX,Seasonal allergic rhinitis
+DIS59VMN,Psoriasis
+DIS5ACCI,Disruptive behavior disorder
+DIS5B72B,Xerophthalmia
+DIS5BUFB,Drug-resistant tuberculosis
+DIS5C8KP,Malignant otitis externa caused by Pseudomonas aeruginosa
+DIS5D4R1,Anaesthesia
+DIS5DV35,Friedreich's ataxia
+DIS5E5L7,Hepatitis C
+DIS5EI0L,Invasive candidiasis
+DIS5EZKX,Acute liver failure
+DIS5F36E,Polymyalgia rheumatica
+DIS5IW5K,Hypersensitivity pneumonitis
+DIS5JBMI,Premature labour
+DIS5JC14,Tinea cruris
+DIS5JC9D,Cytomegalovirus retinitis
+DIS5KAPA,Myeloproliferative neoplasm
+DIS5KXQB,Horner syndrome
+DIS5L3HQ,Esophageal disorder
+DIS5M7HZ,Pulmonary emphysema
+DIS5MYEE,Bronchiectasis
+DIS5N2GV,Esophageal squamous cell carcinoma
+DIS5NVUG,Brainstem neoplasm
+DIS5O5V0,Urea cycle disorder
+DIS5O9P9,Ventilator-associated pneumonia
+DIS5OHQF,Primary cutaneous peripheral T-cell lymphoma not otherwise specified
+DIS5OIP1,Coronary heart disease
+DIS5PYL0,Colorectal carcinoma
+DIS5QJ9S,Bacterial infection
+DIS5RCQK,Beta thalassemia
+DIS5RN24,Testicular germ cell tumor
+DIS5RPEH,Glioma
+DIS5S4DE,Aspiration pneumonitis
+DIS5S9R7,Neovascular age-related macular degeneration
+DIS5T3X5,Thyroid disease
+DIS5UKG5,Bladder squamous cell carcinoma
+DIS5VG35,Tinea versicolor
+DIS5VZDR,Childhood acute megakaryoblastic leukemia
+DIS5WEJ5,Fetal growth restriction
+DIS5WQ2K,Polyuria
+DIS5XOOY,Ischemia
+DIS5Y3KT,Radiation proctitis
+DIS5Y6R9,Non-small-cell lung cancer
+DIS5YNZB,Sickle-cell anaemia
+DIS6060I,Pulmonary disease
+DIS60N91,Mild pre-eclampsia
+DIS61J3S,Hyperlipidemia
+DIS62RB8,Mycosis fungoides
+DIS63CMB,Gallstone
+DIS6447M,Addictive disorder
+DIS655KI,Myocardial infarction
+DIS66PM0,Active duodenal ulcer
+DIS66S0S,Rat-bite fever
+DIS66YLV,Acute adrenal insufficiency
+DIS6CNDL,Alveolar capillary dysplasia with misalignment of pulmonary veins
+DIS6COXM,Leiomyosarcoma
+DIS6D633,Ophthalmic disease
+DIS6DRDZ,Methicillin-resistant staphylococci infection
+DIS6EFUU,Heroin and opiate withdrawal
+DIS6FLUM,Pulmonary tuberculosis
+DIS6FOW8,Hypokalemia
+DIS6GOC8,Intrahepatic cholangiocarcinoma
+DIS6HNYO,Testicular cancer
+DIS6I31F,Dietary shortage
+DIS6KF0Q,Haemophilia B
+DIS6L0CN,Primary myelofibrosis
+DIS6M7AN,Psoriasis vulgaris
+DIS6N9RZ,Bacteremia
+DIS6PCRZ,Resorption of radiopaque agents
+DIS6PD44,Schistosomiasis
+DIS6R1EH,Latent tuberculosis infection
+DIS6SXQD,Pneumococcal infection
+DIS6TJYS,Gastrointestinal stromal tumour
+DIS6TLXU,Obstructive airway disease
+DIS6TTKI,Familial primary hypomagnesemia
+DIS6V60A,Recurrent adult burkitt lymphoma
+DIS6VOG4,Chronic breathing disorder
+DIS6WEHK,Opioid dependence
+DIS6ZC3X,Brain disease
+DIS6ZFQQ,Von hippel-lindau disease
+DIS6ZHWU,Bacillus anthracis infection
+DIS6ZPAI,Adult hepatocellular carcinoma
+DIS6ZZMF,Vascular purpura
+DIS70ZYA,Throat irritation
+DIS71F6X,Cholangiocarcinoma
+DIS71G5H,Metabolic disorder
+DIS72L2L,Female genital tract inflammation
+DIS74KSO,Microscopic polyangiitis
+DIS74LB6,Primary hypercholesterolemia
+DIS7535C,Fibromatosis
+DIS75VW7,Worm infection
+DIS75WFS,Rectum mucinous adenocarcinoma
+DIS76DJE,Leptospira infection
+DIS76XZB,Thalassemia
+DIS77ACK,Rheumatic disorder
+DIS77CDF,Hashimoto thyroiditis
+DIS78CK0,Refractory plasma cell neoplasm
+DIS78PRW,Stabilize muscle contraction
+DIS78WLU,Monitored anaesthesia care
+DIS79FJF,Adult kidney Wilms tumor
+DIS7BEFE,Acute cardiac ischemic events
+DIS7CAJA,Interstitial cystitis
+DIS7CGKY,Helminth infection
+DIS7DPX1,Breast cancer
+DIS7DTI1,Gastrointestinal anthrax
+DIS7DYEW,Acute coronary syndrome
+DIS7FWHY,Respiratory syncytial virus infection
+DIS7GHNM,Osteopetrosis
+DIS7HACE,Urinary bladder neoplasm
+DIS7HLUB,Type-1 diabetes
+DIS7HNOH,Addison disease
+DIS7IBSP,Asperger syndrome
+DIS7IN76,Ventricular fibrillation
+DIS7INCX,Alcohol withdrawal
+DIS7ITOG,Eosinophilic granulomatosis with polyangiitis
+DIS7J2OG,Lymphatic filariasis
+DIS7JDYJ,Gastrointestinal disease
+DIS7JETZ,Congestive cardiac insufficiency
+DIS7K18Z,Herpes simplex virus infection
+DIS7KMY9,Hepatosplenic T-cell lymphoma
+DIS7KN5G,Peripheral neuropathy
+DIS7KPQH,HIV-associated diarrhoea
+DIS7MP4T,Nodal marginal zone lymphoma
+DIS7MS3M,Autoimmune haemolytic anaemia
+DIS7OJYM,Respiratory tract infection
+DIS7OMWY,Cold type autoimmune haemolytic anemia
+DIS7OPRV,Intoxication
+DIS7PYN3,Basal cell carcinoma
+DIS7Q7DN,Noonan syndrome
+DIS7QTMX,Hormonally-responsive breast cancer
+DIS7R96F,Chronic tubotympanic suppurative otitis media
+DIS7SN6U,Hypertriglyceridemia
+DIS7TJWV,Pthirus pubis infestation
+DIS7U38D,Varicella zoster virus infection
+DIS7UMEC,Metabolic acidosis
+DIS7UPG8,Canavan disease
+DIS7VQW9,Mast cell leukaemia
+DIS7WI98,Essential hypertension
+DIS7WMGL,Pancreatic exocrine dysfunction
+DIS7XQSD,Osteogenesis imperfecta
+DIS7Y2EE,Leber hereditary optic neuropathy
+DIS7YFRP,Actinomycosis
+DIS7YN5W,Fusariosis
+DIS7ZXDJ,Dysuria
+DIS80J7E,Acute intermittent hepatic porphyria
+DIS83SVK,Paronychia
+DIS850LC,Insufficient tear production
+DIS86ETN,Raynaud disease
+DIS86UK6,Metastatic malignant neoplasm
+DIS87GLG,Mucopolysaccharidosis II
+DIS87KKY,Gaucher disease type I
+DIS87TGM,Acute lymphoblastic leukaemia
+DIS882XU,Adult T-cell leukemia/lymphoma
+DIS88DJO,Exudative age-related macular degeneration
+DIS88F55,Paracoccidioidomycosis
+DIS8BMO7,Growth hormone deficiency
+DIS8EF3M,Pneumonia
+DIS8G07K,Gastritis
+DIS8I7CO,Binge eating disorder
+DIS8IZVM,Liposarcoma
+DIS8JSKR,Hypogonadotropic hypogonadism
+DIS8K27O,Ulcerative colitis
+DIS8KHDE,Meningeal tuberculosis
+DIS8KLVM,Acute graft versus host disease
+DIS8KNVF,Chagas disease
+DIS8PVZ0,High-risk myelofibrosis
+DIS8Q3VE,Neonatal sepsis
+DIS8QVTT,Pyoderma gangrenosum
+DIS8R241,Bacterial arthritis
+DIS8R9VO,Rectal adenocarcinoma
+DIS8RLX5,Piscicide
+DIS8TYKO,Gastrin-producing neuroendocrine tumor
+DIS8U2OF,Zoster
+DIS8V4GQ,Legionnaires' disease
+DIS8X53J,Hereditary angioedema
+DIS8XQRN,Radioactive tracer
+DIS8XZRH,Enterobiasis
+DIS8YLE6,Atrioventricular block
+DIS8YN8N,Corneal ulcer
+DIS908VO,Seasonal affective disorder
+DIS90QDN,Angioedema
+DIS90T7X,Multibacillary leprosy
+DIS91UJ1,Vitamin B12 deficiency
+DIS920N0,Bacterial endocarditis
+DIS93PQ8,Chronic glaucoma
+DIS97RHR,Allergic otitis media
+DIS985MG,Gliosarcoma
+DIS98ZZH,Non-cystic fibrosis bronchiectasis
+DIS99VZW,Acute epiglottitis
+DIS9A4K4,Neuronal ceroid lipofuscinosis
+DIS9C9RO,"Baldness, male pattern"
+DIS9D5XU,Burkitt lymphoma
+DIS9DIA4,Cardiac arrest
+DIS9DZYF,Hypophosphatemia
+DIS9EABZ,Smallpox
+DIS9GNYZ,Female infertility
+DIS9HBNL,Trichomoniasis
+DIS9HWDD,Thallium poisoning
+DIS9IXRC,Drug dependence
+DIS9K7PB,Mycoses
+DIS9L97J,Pleural empyema
+DIS9LQVD,Articular cartilage disorder
+DIS9NER5,High cholesterol level
+DIS9NUJ1,Radiodermatitis
+DIS9O23I,Waldenstrom macroglobulinemia
+DIS9OO80,Neonatal abstinence syndrome
+DIS9P8YS,Patent ductus arteriosus
+DIS9Q4RT,Brain ischaemia
+DIS9TWSG,Fecal incontinence
+DIS9U23P,Hypercholesterolaemia
+DIS9U3YN,Cholangitis
+DIS9UUVF,Laryngeal squamous cell carcinoma
+DIS9WIQU,Endomyometritis
+DIS9WQAI,Urticaria
+DIS9WYLA,Pseudomonas infection
+DIS9X3H6,Coagulation defect
+DIS9XD9A,Hematologic disease
+DIS9YL4C,Porphyria
+DIS9YPUQ,Dermatological disease
+DIS9ZR24,Chronic granulomatous disease
+DISA0PR2,Burns
+DISA0XP5,Fungal keratitis
+DISA1T1S,Circulatory disorder
+DISA2WYD,Dutch elm disease
+DISA4DV0,Pneumonia caused by gram negative bacteria
+DISA53VZ,Weight loss
+DISA5CB0,Elephantiasis
+DISA6ECE,Cutaneous anthrax
+DISA6W3T,Gallbladder disease
+DISA75FU,Bipolar depression
+DISA7SH0,Alcoholic hepatitis
+DISAA4UI,Leprosy
+DISAAZU9,Respiratory allergy
+DISAB237,Cerebrovascular disease
+DISABTW7,Leishmaniasis
+DISAC9U9,"Myotonia congenita, autosomal dominant"
+DISAF7DD,Colitis
+DISAFOQN,Exanthem
+DISAFXDJ,Aorta coarctation
+DISAI029,Invasive aspergillosis
+DISAIQP2,Aspergillosis
+DISAIU45,Hepatic veno-occlusive disease
+DISAJOUO,Chronic eosinophilic leukemia
+DISAJTO1,Secondary progressive multiple sclerosis
+DISAJWJL,Amoebiasis
+DISAKHZJ,Anterior urethra cancer
+DISAKJKZ,Heparin-induced thrombocytopenia
+DISALD1T,Transplant rejection
+DISAM7J2,Bipolar disorder
+DISAMDMG,Aregenerative anemia
+DISAMOWP,Infertility
+DISAO0OY,Dermal ulcers
+DISAOTQ0,Nasopharyngeal carcinoma
+DISAOX93,Pyelonephritis
+DISAP666,Genital herpes
+DISAP982,Abscess
+DISAPE00,Abdominal surgical procedure
+DISARSGM,Gastrointestinal infection
+DISARVRE,Contrast imaging
+DISAT1Z9,Advanced cancer
+DISAT6WU,Fibrodysplasia ossificans progressiva
+DISATJ3X,Skin sensitivity to sun
+DISAVKAH,Oral candidiasis
+DISAVNWB,Pellagra
+DISAVQI3,Severe asthma
+DISAWKYI,Vitamin D deficiency
+DISAWLUT,Muscle fatigue
+DISAX6J3,Hot flushes
+DISAXHGB,Moderate and severe hypertension
+DISAYSZB,Cutaneous T-cell lymphoma
+DISAZL0D,Congenital syphilis
+DISB083T,Mucopolysaccharidosis
+DISB2WZI,Multiple sclerosis
+DISB38M8,Meningococcal infection
+DISB4B0F,Retinopathy
+DISB4U1Q,Primary hyperparathyroidism
+DISB4UZ0,Rectal neoplasm
+DISB5FPO,Polycythemia vera
+DISB61FF,Radionuclide imaging
+DISB6T16,Wilms tumor
+DISB6TC0,Intra-abdominal infection
+DISB8C4K,Medium chain acyl-CoA dehydrogenase deficiency
+DISB9G3W,Polyneuropathy
+DISBB28L,Epilepsy
+DISBBGVO,Gastric ulcer
+DISBCNM9,Pest attack
+DISBEPZO,Vitamin A deficiency
+DISBEXT0,Malignant epithelial tumor of ovary
+DISBF6L8,Acute gonococcal epididymo-orchitis
+DISBFGKL,Neuromyelitis optica
+DISBH6FR,Bordetella pertussis infection
+DISBHMYH,Paroxysmal nocturnal haemoglobinuria
+DISBHR1G,Athylene glycol or methanol poisoning
+DISBHWUI,Autosomal dominant polycystic kidney disease
+DISBI2BT,Anxiety disorder
+DISBIXK4,African trypanosomiasis
+DISBJQKZ,Amenorrhea
+DISBKFB7,Brain cancer
+DISBKQGT,Orthostatic hypotension
+DISBL2M3,Plant grey mould disease
+DISBL5BY,Postoperative hemorrhage
+DISBL7S1,Vulvodynia
+DISBLQ1T,Wernicke-Korsakoff Syndrome
+DISBLXWM,Acute hyperammonaemia
+DISBM6EQ,Bronchitis
+DISBNYQL,Biliary tract cancer
+DISBNZTN,Kidney neoplasm
+DISBP0IU,Cancer related pain
+DISBPSQZ,Head and neck cancer
+DISBRUSE,Acute supraventricular tachycardia
+DISBU610,Endocarditis
+DISBUXSM,Glossopharyngeal neuralgia
+DISBV463,Eye inflammation
+DISBV50J,Acute disease
+DISBXHEP,HCV 1-6 infection
+DISBXRFJ,Clear cell renal carcinoma
+DISBY81U,Adult teratoma
+DISBYQTA,Central nervous system lymphoma
+DISBZ12R,Mucosal melanoma
+DISBZYU8,Prostate adenocarcinoma
+DISC06IX,Familial hypercholesterolemia
+DISC07AQ,Pseudomonas aeruginosa infectious disease
+DISC1H1Z,Kaposi sarcoma
+DISC2BT9,Ocular hypertension
+DISC2C93,Adenosine deaminase defciency
+DISC2M2N,Testicular lymphoma
+DISC3UAJ,Vitamin D-dependent rickets
+DISC4LZG,Leishmania braziliensis infection
+DISC5R5F,Meniere disease
+DISC5STS,Herpes simplex labialis
+DISC7DFA,Discovery agent
+DISC7Q0L,Agitation
+DISC81BT,Intracerebral hemorrhage
+DISC8RMX,Gingivitis
+DISC905E,Neuropathic pain
+DISC9LBD,Sarcopenia
+DISCAVOZ,Disseminated intravascular coagulation
+DISCC73U,Acromegaly
+DISCCHZN,Sarcomatoid mesothelioma
+DISCDP7W,Haematological malignancy
+DISCDT4E,Peripheral T-cell lymphoma
+DISCEMGC,Cytomegalovirus infection
+DISCF7Y9,Bursitis
+DISCFBRD,Neurological disorder
+DISCGPY8,Retinitis pigmentosa
+DISCGTZY,Splenic marginal zone lymphoma
+DISCI8JQ,Rheumatic heart disease
+DISCK9IV,Bronchiolitis obliterans syndrome
+DISCKTAT,Meningococcal meningitis
+DISCL1WZ,Ear disease
+DISCL9JK,Diagnostic radiopharmaceutical
+DISCLMC4,Angina pectoris
+DISCM4YA,Lung cancer
+DISCQ0O2,Hypophosphatasia
+DISCQ39I,Postherpetic neuralgia
+DISCQU4G,Hyperphenylalaninemia
+DISCRNV1,Autosomal dominant familial periodic fever
+DISCSPTN,Acute myelogenous leukaemia
+DISCT4GX,Hemoglobinopathy
+DISCTHH3,Choroiditis
+DISCU56J,Phenylketonuria
+DISCU7CO,Cystinuria
+DISCVF9Y,Dental plaque
+DISCVGPZ,Lupus nephritis
+DISCVPML,Gastroesophageal junction adenocarcinoma
+DISCVXCW,Streptococcal toxic-shock syndrome
+DISCXBOW,Grade IV astrocytoma
+DISD06OF,Abdominal aortic aneurysm
+DISD07I9,Vitamin deficiency
+DISD09EF,Intracranial meningioma
+DISD09EG,Pleural tuberculosis
+DISD09EH,Bipolar I disorder
+DISD18PM,Chronic heart failure
+DISD1F1J,Nocturia
+DISD35KW,Sympathetic ophthalmia
+DISD39P6,Delayed methotrexate clearance
+DISD3GU2,Diarrhea-predominant irritable bowel syndrome
+DISD3VNY,Panic disorder
+DISD4UB1,Keratinization disease
+DISD51WR,Lung adenocarcinoma
+DISD5ICW,Long-chain fatty acid oxidation disorder
+DISD5M1D,Gingival disorder
+DISD5OY4,Dysrhythmias
+DISD6ACL,Gallbladder carcinoma
+DISD8MTH,Erectile dysfunction
+DISD8N1U,Deep vein thrombosis
+DISDAKTM,Organ transplant rejection
+DISDBPKD,Neurosyphilis
+DISDBVNL,Choriocarcinoma
+DISDC067,Cardiac failure
+DISDCGAG,Hemangioma
+DISDCYDF,Ophthalmic graves disease
+DISDE4BI,Liver cancer
+DISDG09E,Amnesia
+DISDG1NL,Non-alcoholic fatty liver disease
+DISDGALM,Sweetener
+DISDI0CT,Salivary gland squamous cell carcinoma
+DISDJ8C0,Pompe disease
+DISDJJ4U,Merkel cell carcinoma
+DISDJU1H,Weight gain
+DISDKAQY,Skin ulcer
+DISDKUQO,Laryngeal disorder
+DISDL9QC,Impacted cerumen
+DISDLYDU,Uremic pruritus
+DISDN5P7,Chronic myelomonocytic leukaemia
+DISDNWHP,Ascariasis
+DISDNXCM,Erysipelas
+DISDOA71,Vomiting
+DISDOC9I,Loiasis
+DISDOS6S,Small intestine lymphoma
+DISDPK9D,Septicemic plague
+DISDPPHX,Prolymphocytic leukaemia
+DISDQQDH,Anal fistula
+DISDQSW3,Langerhans cell histiocytosis
+DISDR98A,OPTN-related open angle glaucoma
+DISDRAAR,Substance dependence
+DISDRE0J,Colon adenocarcinoma
+DISDS5OT,Carcinoid syndrome
+DISDSJDZ,Demodex blepharitis
+DISDSMNI,Back pain
+DISDU90K,Glucagonoma
+DISDV0G3,Intestinal strongyloidiasis due to nematode parasite
+DISDV4LC,Fertility problem
+DISDV4T7,Urinary bladder cancer
+DISDVNBI,Acute bronchiolitis
+DISDW0SR,Gastroparesis
+DISDW8R6,Skin disease
+DISDWIRS,Ventricular arrhythmias
+DISDWYSE,Urethral cancer
+DISDY0OZ,Botulism
+DISDYDTK,Cryptococcosis
+DISDZ2YP,Carcinoid syndrome diarrhea
+DISE0LB0,Echinococcus granulosus infectious disease
+DISE12BW,Gonococcal infection of joint
+DISE1F82,Bone disease
+DISE1NDR,Renal tubular acidosis
+DISE362I,Hyperhidrosis
+DISE3HTG,Acute myocardial infarction
+DISE4C4D,Onychomycosis
+DISE51A7,Hyperkinetic movement disorder
+DISE5B8Z,Sarcoidosis
+DISE6LY9,Extragonadal germ cell tumor
+DISE7E78,Muscular pain
+DISE8B6O,Brain glioma
+DISEA4L7,Relapsing fever
+DISEA6WS,Symptomatic vitreomacular adhesion
+DISEAFTY,Ovarian neoplasm
+DISEAKAN,Hepatic encephalopathy
+DISEAYGH,Brucellosis
+DISEAZF9,Functional bowel syndrome
+DISEBC93,Syphilis infection
+DISECZYI,Hepatic fibrosis
+DISEDL2I,Hypersensitivity
+DISEE9BG,Bronchiolitis
+DISEEX2T,Thyroid crisis
+DISEEX9F,Cytomegalovirus Disease
+DISEEXDD,Infestations of lice and scabies
+DISEG262,Postpoliomyelitis syndrome
+DISELRCI,Myasthenia gravis
+DISEM33Q,Infectious disease
+DISEMENW,Rickettsialpox
+DISEMUGZ,Tuberous sclerosis
+DISENI5X,Viral pneumonia
+DISENR62,Pemphigus vulgaris
+DISEO8Y0,Gastric intestinal type adenocarcinoma
+DISEOA7S,Lipid metabolism disorder
+DISEP2HK,Central and peripheral nervous disease
+DISEPYEA,Onchocerciasis
+DISEQX10,Skin burns
+DISERLZB,Cholelithiasis
+DISESSLZ,Hepatitis D virus infection
+DISESTHB,Glioblastoma of brain
+DISEU9EO,Poliovirus infection
+DISEUB5R,Acute maxillary sinusitis
+DISEUIQP,Complex regional pain syndrome type 1
+DISEWP9B,Multiple myeloma
+DISEXL4F,Postoperative inflammation
+DISEXWC3,Chronic lymphocytic leukaemia
+DISF0NF1,Keratosis
+DISF190Y,Prostate cancer
+DISF2JE0,Osteoporosis
+DISF3BXT,Herpetic keratitis
+DISF3CSV,Respiratory tract inflammation
+DISF44L6,Systemic sclerosis
+DISF45DN,Pars planitis
+DISF7HVM,Amyotrophic lateral sclerosis
+DISF8S70,Alzheimer disease
+DISF94A2,Tularemia
+DISFB8P5,Central nervous system disease
+DISFBZLV,Dacryocystitis
+DISFC18W,Central nervous system neoplasm
+DISFCQTG,Migraine disorder
+DISFCXQW,Cerebral vasospasm
+DISFE93Q,Altitude sickness
+DISFF2NI,Arrhythmia
+DISFGEKX,Acute pain
+DISFHE45,Lleum inflammation
+DISFHXHA,Primitive neuroectodermal tumor
+DISFK09W,Thrombin deficiency
+DISFK2QT,Thyroid gland follicular carcinoma
+DISFK7RF,Adrenal gland neoplasm
+DISFK9Y9,Drug-induced osteoporosis
+DISFKGJU,Idiopathic thrombocytopenic purpura
+DISFKT39,Diagnostic imaging
+DISFL3YB,Lung lymphangioleiomyomatosis
+DISFM2W9,Joint lubricant
+DISFMTC7,Sezary syndrome
+DISFN72S,Rocky mountain spotted fever
+DISFN8ZV,Chronic HCV-1 infection
+DISFO214,Clostridium difficile associated diarrhea
+DISFO5RQ,Anorexia nervosa cachexia
+DISFPH28,Alcohol withdrawal delirium
+DISFPT78,Anthrax
+DISFR4Q2,Perianal wart
+DISFRANU,Reversal of anticoagulation
+DISFREOV,Mantle cell lymphoma
+DISFRNB6,Haemostatic astringent
+DISFSDLO,Cerebrovascular ischaemia
+DISFSHPF,Cervical cancer
+DISFSOM3,Pneumocystis pneumonia
+DISFSUKQ,Membranous glomerulonephritis
+DISFUBH8,Listeria meningitis
+DISFVCJF,Manic depression disorder
+DISFVG19,Prostate disease
+DISFVUT9,Anemia of prematurity
+DISFW74P,Stress urinary incontinence
+DISFWHIG,Canine and feline spontaneous neoplasm
+DISFXKOV,Malignant glioma
+DISFYSIV,Virus infection
+DISFZHKN,Bacillary dysentery
+DISFZKUM,Localisation
+DISG00K2,Folate-deficiency anemia
+DISG024R,Cholecystitis
+DISG0EIG,Acute lung injury
+DISG0OO3,Pediculus humanus corporis infestation
+DISG4YLE,Brill-Zinsser disease
+DISG6BLX,Adult acute monocytic leukemia
+DISG7AXL,Recurring respiratory infection
+DISG7YFO,Mydriasis
+DISG873W,Congenital adrenal hyperplasia
+DISG8CCO,Ischemia-reperfusion injury
+DISG8EPE,Emphysema
+DISGAGZ3,Boutonneuse fever
+DISGBSRL,Urinary dysfunction
+DISGCAMX,Neutropenia
+DISGDM2Z,Meningococcal disease
+DISGFCNW,Abortion
+DISGFZXW,T-lymphoblastic lymphoma
+DISGG5UV,Rett syndrome
+DISGG7K6,Chronic renal failure
+DISGGAGJ,Respiratory disease
+DISGGVL1,Fungal infection
+DISGN23E,Inflammatory bowel disease
+DISGNZOQ,Narcotic depression
+DISGOZ4P,Conjunctivitis
+DISGPOAZ,Excessive sweating
+DISGQ2EA,Chronic thromboembolic pulmonary hypertension
+DISGQ59Y,Bulimia nervosa
+DISGQJQQ,Cystic tumor of the pancreas
+DISGQK8E,Psychosexual disorder
+DISGQU9D,Endocrine gland neoplasm
+DISGTF4W,Histoplasmosis
+DISGTNRN,Anabolic metabolism
+DISGTSHK,Aneurysm
+DISGVA97,Skeletal muscle relaxant
+DISGVGNQ,Penile cancer
+DISGX28I,Herpes simplex encephalitis
+DISGX357,Desmoid tumour
+DISGY3B0,Intermittent claudication
+DISGYB62,Acute asthma
+DISGYC6W,Primary motor cortex epilepsy
+DISGYD6Y,Expectorant
+DISGYLY2,Hypoactive sexual desire disorder
+DISGYV3F,Lymphosarcoma
+DISGZDUO,Otitis media
+DISH0ECJ,Disorder of orbital region
+DISH0T3L,Hereditary tyrosinemia type 1
+DISH15GR,Beckwith-Wiedemann syndrome
+DISH2ERD,Cognitive impairment
+DISH2I53,Prediabetes syndrome
+DISH3GHR,Lung carcinoid tumor
+DISH3PX3,Chronic diarrhoea
+DISH3QF7,Blood transfusion
+DISH4BY0,Erythropoietic protoporphyria
+DISH553L,Disseminated sporotrichosis
+DISH678X,X-rays imaging
+DISH6EOW,Gonococcal urethritis
+DISH6N87,Pure autonomic failure
+DISH7Y6Q,Narcolepsy type 1
+DISH89YF,Rickets
+DISH8MNP,Scorpion envenoming syndrome
+DISH9F1N,Carcinoma
+DISH9WGS,Venom poisoning
+DISHBL3K,Medullary thyroid gland carcinoma
+DISHC0U7,Gout
+DISHC2QB,Sunburn
+DISHF0H3,Allergic asthma
+DISHF2X6,Ulcer
+DISHF7DO,Scar tissue
+DISHFA7H,Duchenne dystrophy
+DISHFGBE,Primary haemophagocytic lymphohistiocytosis
+DISHGJ6G,Endometritis
+DISHGM86,Central nervous system non-hodgkin lymphoma
+DISHGUJM,Diabetic retinopathy
+DISHGY45,Parkinsonian disorder
+DISHIAJE,Postpartum haemorrhage
+DISHIGUN,Gastrointestinal cancer
+DISHIP8T,Extragonadal germ cell cancer
+DISHKNMU,Subacute bursitis
+DISHL1EY,Post-traumatic stress disorder
+DISHL4NT,Chronic hepatitis B virus infection
+DISHLVWB,Woodhouse-Sakati syndrome
+DISHMMF2,Fallopian tube neoplasm
+DISHN726,Skin allergy
+DISHN7UZ,Latent yaws
+DISHNU25,"Hypertension, pregnancy-induced"
+DISHOPPI,Large granular lymphocytic leukemia
+DISHQ3BE,Carpal tunnel syndrome
+DISHR0EB,Acquired generalized lipodystrophy
+DISHSTQ0,Vasomotor/allergic rhinitis
+DISHT9AE,Pleural disease
+DISHTAI2,Amyloidosis
+DISHTRXG,Cocaine addiction
+DISHV9EH,Epidemic louse-borne typhus
+DISHW3R3,Hyperphosphatemia
+DISHZDH0,Diagnostic fluorescein angiography or angioscopy of vasculature
+DISHZX9D,Ovarian disorder
+DISI019B,Pituitary dwarfism
+DISI0RB1,Excessive daytime sleepiness
+DISI0V1B,Non-small-cell lung cancer
+DISI0V5E,Glioblastoma
+DISI1SZ7,Systemic lupus erythematosus
+DISI1X4U,Pediatric lennox-gastaut syndrome
+DISI20G2,X-linked chondrodysplasia punctata 2
+DISI2SNW,Diamond-Blackfan anemia
+DISI3CW2,Benign prostatic hyperplasia
+DISI4SS3,Tertiary lesion of yaws
+DISI600N,Chemoprotection
+DISI7I8Y,Subarachnoid hemorrhage
+DISI893M,Severe pre-eclampsia
+DISI8EFB,Plasmodium ovale malaria
+DISI8W45,Anaemia
+DISI9JOI,Periodontitis
+DISIAEB7,Latent syphilis
+DISIALGI,Primary systemic amyloidosis
+DISIBXJ3,Ventricular tachycardia
+DISICMNI,Hypogonadism
+DISICOXR,Dyspareunia
+DISICS0V,Hypoparathyroidism
+DISIDWT6,Hyperinsulinemia
+DISIEXDO,Neuromyelitis optica spectrum disorder
+DISIF7E7,Salpingitis
+DISIFBM2,Smoking dependence
+DISII8HD,Inhalational anthrax
+DISIJDBA,Anxiety
+DISIJJHW,Varicose and spider veins of leg
+DISIJV47,Adult respiratory distress syndrome
+DISIL8UR,Chronic myelomonocytic leukemia
+DISILSPO,Hepatic coma
+DISIMBN2,Varicose veins
+DISIMP21,Myelofibrosis
+DISIPHX6,Liver abscess (disease)
+DISIPS4V,Bone Paget disease
+DISIRYMU,Candidiasis
+DISITUVU,Malignant solid tumour
+DISIU1JS,Insulinoma
+DISIUHAP,Type-1/2 diabetes
+DISIVIAL,Sexually transmitted infection
+DISIWPFR,Toxic epidermal necrolysis
+DISIXLHV,HIV-associated lipodystrophy
+DISIXT7W,Cerebral vasodilator
+DISIY76O,Haemophilus influenza
+DISIYYSV,Opisthorchiasis
+DISIZUF7,Hydrocephalus
+DISJ1FYS,Kidney transplant rejection
+DISJ3A62,Blood brain barrier
+DISJ3EYJ,Blastomycosis
+DISJ3NWT,Synthesis disorder
+DISJ4SSG,Acute undifferentiated leukemia
+DISJ5D6U,Childhood acute lymphoblastic leukemia
+DISJ5F10,Renal hypoplasia
+DISJ5JX1,Typhus
+DISJ5NW7,Coccidioidomycosis
+DISJ73BS,Syphilis
+DISJ7GGT,Nervous system disease
+DISJ9M77,Type 2 diabetes
+DISJAVM1,Ebola virus infection
+DISJC981,Pancreatic cancer
+DISJEW1H,Hypoalbuminemia
+DISJF7LY,Dravet syndrome
+DISJGEAQ,Fever
+DISJJ94G,Sarcoptes scabiei infection
+DISJKAFL,Chronic periodontitis
+DISJLFGW,Dystonia
+DISJMF88,Head and body lice
+DISJMWEY,Diabetic kidney disease
+DISJPHK7,Glabellar frown line
+DISJPOUD,Absence epilepsy
+DISJPXO5,Wound healing
+DISJQHVN,Periodontal disease
+DISJQTX1,Acidosis
+DISJRMG0,Blepharospasm
+DISJRMPQ,Insecticide
+DISJRSC0,Aplastic anemia
+DISJSGBZ,Peptic esophagitis
+DISJTL5X,Oral mucosa leukoplakia
+DISJUQ5T,Inflammation
+DISJUSVZ,Advanced/metastatic breast cancer
+DISJV45Z,Sensorineural hearing loss disorder
+DISJW62S,Heart failure
+DISJW6E6,Edema
+DISJXZQF,Paracetamol poisoning
+DISJYD9A,Dermatologic infection
+DISJYOE3,Hormone deficiency
+DISJYP9B,Pulmonary embolism
+DISK0X5T,Yellow fever virus infection
+DISK1APO,Pediatric immunological disease
+DISK1O5Z,Non-insulin dependent diabetes
+DISK1S90,Q fever
+DISK2MZ2,Bacterial vaginosis
+DISK2QRI,Irritability
+DISK3LZD,Small-cell lung cancer
+DISK3N1S,Homocystinuria
+DISK3TVI,Analgesia
+DISK4TGU,Headache
+DISK5QGC,Arteriosclerosis
+DISK6PTH,Staphylococcus aureus infection
+DISK72WC,Dry eye disease
+DISK7GAB,Kidney disease
+DISK8246,Glioblastoma multiforme
+DISKA5RC,Tardive dyskinesia
+DISKAIXX,Microorganisms infection
+DISKAXY9,Cluster headache
+DISKB4RK,Injury
+DISKBNZP,Central retinal vein occlusion with macular edema
+DISKCLM1,Erythema multiforme
+DISKERTK,Enzyme deficiency
+DISKFIMU,Paroxysmal supraventricular tachycardia
+DISKFW6V,Psychiatric disorder
+DISKGKOC,Intracranial arteriosclerosis
+DISKHX7S,Pancreatic adenocarcinoma
+DISKICS2,Dysentery
+DISKIJSX,Stomach cancer
+DISKJJB0,Deep venous clot
+DISKLMN7,Rhinitis
+DISKLOKC,B-cell acute lymphoblastic leukaemia
+DISKMKFJ,Intestinal hypomagnesemia 1
+DISKMQBM,Listeriosis
+DISKNDYU,Coronary atherosclerosis
+DISKQ2K7,Hypercalcaemia
+DISKQF0W,Hypertrichosis of eyelid
+DISKRB4V,Diabetic cataract
+DISKS5K2,Inborn homocystinuria
+DISKS8QN,Molybdenum cofactor deficiency
+DISKT6OJ,Cystine urolithiasis
+DISKU1YS,Haemorrhage
+DISKW5KW,Heart disease
+DISKW8PI,Acne vulgaris
+DISKYEDV,Primary peritoneal carcinoma
+DISKYOX0,Clostridium infection
+DISL1CE3,"Hyperlipidemia, familial combined, LPL related"
+DISL1D9U,Chorioamnionitis
+DISL1SAV,Herpes simplex infection
+DISL38J3,Thrombocythemia
+DISL3V18,Astrocytoma
+DISL3WCU,Sterilant
+DISL5UOX,Acquired immune deficiency syndrome
+DISL5XVU,Congenital hypothyroidism
+DISL7897,Vaso-occlusive crisis
+DISL7AGZ,Adenomatous colon polyp
+DISL7Y7K,Infection of the upper and lower urinary tract
+DISL8D8G,Acute otitis media
+DISL8MX9,Attention deficit hyperactivity disorder
+DISL8OGN,Prostatitis
+DISL8XZI,Peptic ulcer
+DISLBTU2,Cryptosporidium infection
+DISLBW6B,Schizoaffective disorder
+DISLBXBY,Glaucoma/ocular hypertension
+DISLCGI6,Goiter
+DISLCJY7,Ductal breast carcinoma in situ
+DISLCNLI,Narcolepsy
+DISLD42D,Oral cancer
+DISLEIK6,Acquired haemolytic anemia
+DISLEJU7,Blastic plasmacytoid dendritic cell neoplasm
+DISLGVL7,Choroidal neovascularization
+DISLI2ME,Desmoplastic small round cell tumor
+DISLIAU9,West syndrome
+DISLIZS4,Hyperprolactinaemia
+DISLJQ4K,Shock
+DISLKHK4,Inflammatory skin condition
+DISLKKHD,Macular degeneration
+DISLKUNL,Heart arrhythmia
+DISLL965,Hypertension
+DISLLY7S,Pseudotumor cerebri
+DISLOCZM,Erysipelothrix rhusiopathiae infectious disease
+DISLP3XE,Nasal polyp
+DISLPORP,Community-acquired pneumonia
+DISLQ2XY,Hepatitis B virus infection
+DISLR0DG,Iron overload disease
+DISLRPYJ,Euthyroid goiter
+DISLRVLT,Carotid artery disease
+DISLSNBJ,Knee osteoarthritis
+DISLSZWB,Radiocontrast agent
+DISLTCVN,Neuroaspergillosis
+DISLTH3X,Yaws
+DISLU64N,Classic phenylketonuria
+DISLUF66,Rheumatic fever
+DISLVKMD,Thyroid tumor
+DISLVMWO,Mood disorder
+DISLWTG2,Psoriatic arthritis
+DISLZ4AO,Marginal zone lymphoma
+DISLZYDI,Pediculus capitis infestation
+DISM0MTO,Hormone-resistant prostate carcinoma
+DISM24LR,Investigative surgical procedure
+DISM48JC,Pancreatic malfunction
+DISM4F09,Hypertensive emergency
+DISM5AAF,bronchial hyperreactivity
+DISM5U0L,Pneumococcal meningitis
+DISM5VIS,Tibial nonunions
+DISM7GNX,Coronavirus Disease 2019 (COVID-19)
+DISM7JPJ,Dermatophytosis
+DISM7OZD,Obsolete neurogenic bladder
+DISMAQGW,Pasteurellosis
+DISMB5FU,Short bowel syndrome
+DISMB65Y,Alcohol use disorder
+DISMBYB0,Chronic urticaria
+DISMCMLQ,Peritonitis
+DISMFOEI,Keratitis
+DISMG0FL,Epilepsy with generalized tonic-clonic seizures
+DISMGEBX,Chlamydia infection
+DISMHFNW,Tetralogy of fallot
+DISMHKS7,Acid-reflux disorder
+DISMISQD,Vulnerary
+DISMJPLE,Prostate carcinoma
+DISMKP1N,Bartonellosis
+DISMKWS3,Long QT syndrome
+DISMMXUS,Ocular disease
+DISMN80I,Childhood myelodysplastic syndrome
+DISMN944,Myeloid leukaemia
+DISMN9J3,Atherosclerosis
+DISMOTRL,Hormone replacement therapy
+DISMOUMI,Granuloma annulare
+DISMR2WD,Condyloma
+DISMT6UV,Urinary tract infection
+DISMU050,Retina venous occlusion
+DISMVL8O,Lymphoproliferative syndrome
+DISMVLOF,Chancroid
+DISMWSGT,Testosterone deficiency
+DISMXE8S,External genital and perianal wart
+DISMXRWZ,Hay fever
+DISMYAWR,Ovarian serous cystadenocarcinoma
+DISMYBW9,Dysmenorrhea
+DISMYF5H,Acquired nystagmus
+DISN0Q7Q,LambertEaton myasthenic syndrome
+DISN1LGK,Escherichia coli meningitis
+DISN2OO5,Renal osteodystrophy
+DISN50RG,Scalp dermatosis
+DISN5ZQH,Menorrhagia
+DISN603Q,Malignant essential hypertension
+DISN6V4S,Lymphoma
+DISN73RD,Varicella
+DISN7KUQ,Infection of P. falciparum
+DISN895I,Classic Kaposi sarcoma
+DISN8EHR,Hemorrhage
+DISN8K9H,Traumatic brain injury
+DISN9VTY,Miosis
+DISNAKFL,Leukemia
+DISNAU3W,Nephropathic cystinosis
+DISND6W2,Mineral-electrolyte metabolism disorder
+DISNE6CJ,Dizziness
+DISNEQBZ,Disorder of calcium metabolism
+DISNF40V,Chronic alcoholism
+DISNFLGA,Menstrual disorder
+DISNFTKT,Urolithiasis
+DISNGQVY,Muscle spasm
+DISNH7P9,Colorectal cancer
+DISNJ878,Intractable insomnia
+DISNJ9S2,Euvolemic hyponatremia
+DISNJ9T3,Lipoprotein disorder
+DISNQ2OY,Systemic mastocytosis
+DISNQAJO,Adverse reactions to acetaminophen or acetaminophen overdose
+DISNRSNM,Dysbetalipoproteinemia
+DISNSMUD,Mycobacterium infection
+DISNWVJU,Seborrhoeic dermatitis
+DISNZNTG,Gastric disease
+DISO0BY5,Bronchopulmonary dysplasia
+DISO3MC0,Paget's disease
+DISO5FAY,Inborn error of metabolism
+DISO61YO,Ocular pain
+DISO6XDZ,Hypoactive sexual desire dysfunction
+DISO70G5,Lyme disease
+DISO97HC,HIV infectious disease
+DISOBM0Q,Sleep-wake disorder
+DISOF023,Impetigo
+DISOG6P2,Cushing disease
+DISOGP81,Embolism
+DISOGUS0,Measure kidney function
+DISOHDKP,Neurogenic orthostatic hypotension
+DISOMK8G,Sinus rhythm disorder
+DISONDW6,Thiamine deficiency
+DISOR9PQ,Spinal cord injury
+DISOTCOX,Enuresis
+DISOTGO5,LennoxGastaut syndrome
+DISOUHB2,Primary biliary cirrhosis
+DISOV9GB,Atrophic vaginitis
+DISOVI36,Poisoning due to pesticides and chemicals
+DISOWLOH,Spontaneous abortion
+DISP34GI,Vitamin B6 deficiency
+DISP3EVR,Ataxia-telangiectasia
+DISP4D1R,Anaplastic large cell lymphoma
+DISP8ZX5,Pulmonary arterial hypertension
+DISPAKGA,Respiratory distress syndrome
+DISPDFZC,Thllium and radioactive isotopes of caesium poisoning
+DISPDORC,Prostate hyperplasia
+DISPFUV2,Bile duct disease
+DISPI76T,Chronic open-angle glaucoma
+DISPKUD1,Seasonal influenza infection
+DISPLMYO,HER2-positive breast cancer
+DISPN7V0,Amyloid polyneuropathy
+DISPO1T8,Ovarian stimulation
+DISPP65M,Escherichia coli infection
+DISPPN0O,Musculoskeletal disorder
+DISPRY75,Fetal trimethadione syndrome
+DISPU3H9,Plasmodium vivax malaria
+DISPV68Z,Immune System disease
+DISPW7PH,Bacterial pneumonia
+DISPWU75,Influenza virus infection
+DISPX75S,Acute lymphocytic leukaemia
+DISPYOJM,Heart attack
+DISQ0M8R,Hepatitis C virus infection
+DISQ1WRT,Alcoholic cirrhosis of liver
+DISQ3AU0,Contact dermatitis
+DISQ562P,Menopause symptom
+DISQ5G6G,Hemorrhoids
+DISQ6C3I,Non-erosive gastro-esophageal reflux disease
+DISQ7OZ9,Hyperuricaemia
+DISQ8G5S,Gastroesophageal reflux disease
+DISQ8RM8,Migraine
+DISQ8WCA,Mild hypocalcemia
+DISQ9VQM,Seborrhea
+DISQ9Y50,Malaria
+DISQABAA,Meningitis
+DISQCIRF,Chronic obstructive pulmonary disease
+DISQJLDM,Hyperaemia
+DISQKEHW,Alpha-1 antitrypsin deficiency
+DISQKEPD,Neurotrophic keratitis
+DISQLZBL,Histoplasma infection
+DISQNVDZ,Factor VIII deficiency
+DISQOL9F,Poison intoxication
+DISQOYF5,Generalized myasthenia gravis
+DISQPLA4,Huntington disease
+DISQPNIA,Dry cough
+DISQR5TD,Overactive bladder
+DISQROQD,Metal intoxication
+DISQRVLK,Diarrhea
+DISQTIJZ,Neuromuscular disease
+DISQU4Q5,Artery stenosis
+DISQVHKL,Parkinson disease
+DISQX1LF,Plaque psoriasis
+DISQXJIU,Cholestasis of parenteral nutrition
+DISQZ2X8,Renal cell carcinoma
+DISQZRON,Coronavirus infection
+DISR05SL,Vitiligo
+DISR0H6D,Hypothyroidism
+DISR0RNB,Lymphangioleiomyomatosis
+DISR1RC5,Actinic keratosis
+DISR4QMU,Increase blood pressure
+DISRC6IR,Ankylosing spondylitis
+DISRCKR7,Hypoglycemia
+DISRCNCF,Homozygous familial hypercholesterolemia
+DISRCR6D,Vulvovaginal Candidiasis
+DISRDKWE,Visceral spasms
+DISRF1M2,Acute or chronic pain
+DISRGVBH,Contrast medium for intravenous urography
+DISRIYLK,Hyperoxaluria
+DISRL5J4,Nasal congestion
+DISRNAI4,Human immunodeficiency virus infection
+DISRONZE,Spinal stenosis
+DISRQ3NV,Duchenne muscular dystrophy
+DISRQJRM,Seizure disorder
+DISRQXWI,Constipation
+DISRTNTN,Urothelial carcinoma
+DISRTTBO,Tinnitus
+DISRWHX1,Suprapubic pain
+DISRYD6K,Myocardial disease
+DISRZ2R6,Human immunodeficiency virus-1 infection
+DISS0RQZ,Postmenopausal osteoporosis
+DISS1UT7,Vulvovaginitis
+DISS210K,Primary hyperoxaluria type 1
+DISS2Y8A,Non-hodgkin lymphoma
+DISS7D1V,leukaemia
+DISS84JS,Senile dementia
+DISS8O8V,Chronic bronchitis
+DISS93V5,Oral mucositis
+DISSACK3,Diffuse large B-cell lymphoma
+DISSC4V5,Rabies
+DISSEH6G,Hyponatraemia
+DISSESKQ,Severe sepsis
+DISSHDA5,Primary progressive multiple sclerosis
+DISSJK2D,Hypercalciuria
+DISSKWCZ,X-linked hypophosphataemia
+DISSL43L,Metastatic melanoma
+DISSN8XB,Soft tissue sarcoma
+DISSOX8Y,High blood cholesterol level
+DISSP87T,Giant cell arteritis
+DISSQJN2,Epileptic seizures
+DISSRV2N,Schizophrenia
+DISSTE1Q,Panic attacks
+DISSXRTQ,T-cell lymphoma
+DISSYMBS,Behcet disease
+DISSZEE8,Open-angle glaucoma
+DIST1YEL,Arthritis
+DIST2R60,Malignant pleural mesothelioma
+DIST4BF8,Erosive esophagitis
+DISTCK2W,Hypocalcemia
+DISTCP41,Atopic dermatitis
+DISTD2E5,Hairy cell leukaemia
+DISTG433,Cartilage lesions
+DISTJ434,Salmonella infection
+DISTJXPA,Bone metastases
+DISTKHW1,Kidney stone
+DISTL5ME,Nutritional deficiency
+DISTLKOB,Spinal muscular atrophy
+DISTM18U,Skin cancer
+DISTRMV5,Cestodes infection
+DISTSB4J,Rheumatoid arthritis
+DISTUGFF,Vitamin C deficiency
+DISTVIQI,Bladder disease
+DISTVL0C,Anemia
+DISTW5JG,Gaucher disease
+DISTWB7B,Abdominal stomach pain
+DISU3CNU,Anca-associated vasculitis
+DISU4KOQ,Graves disease
+DISU5WOW,Genitourinary disease
+DISU61YW,Thrombocytopenia
+DISU68RU,Advanced gum disease
+DISU7VUO,Hyperthermia
+DISU8V8B,Acute iron or aluminum toxicity
+DISUA5BJ,Excessive bleeding
+DISUA8TL,Alkalosis
+DISUBO83,Trypanosomiasis
+DISUBX7H,Sjogren syndrome
+DISUD7SL,Cataract
+DISUHNM0,Bladder cancer
+DISUIMJH,Alpha-mannosidosis
+DISUKK0U,Lower respiratory tract infection
+DISUKOLS,Hormone receptor positive and HER2-negative advanced or metastatic breast cancer
+DISUL5AN,Erythema
+DISUMFQV,Hepatitis A virus infection
+DISUMGPU,Chronic myeloid leukaemia
+DISUR7CR,Venous thromboembolism
+DISUR9Q5,Complex partial seizure
+DISUUQJF,Fabry disease
+DISUUWCW,Fatigue
+DISUXS95,Reversal of the anticoagulant effects of dabigatran
+DISUYOOU,Dyslipidemia
+DISUZ4IS,Erythropoietic porphyrias
+DISV0JVE,Flatworm infection
+DISV0RYS,Uveitis
+DISV185U,Peroxisomal disorder
+DISV1JEM,Subcutaneous fat disorder
+DISV43GI,Vitamin B1 deficiency
+DISV91KI,Acute promyelocytic leukaemia
+DISVBLBO,Hyperlipoproteinemia
+DISVC11M,Castleman's disease
+DISVCIJW,Morning sickness
+DISVCYMK,Organophosphate poisoning
+DISVEERK,Arthropathy
+DISVEN6L,Magnesium intoxication
+DISVEUR6,Follicular lymphoma
+DISVEVSJ,Malignant pleural effusion
+DISVFYGY,Helicobacter infection
+DISVGJET,Neuroendocrine cancer
+DISVH62W,Pruritus
+DISVHK7H,Venous thrombosis
+DISVJQ2R,Reperfusion injury
+DISVKQ4X,Cardiac arrhythmias
+DISVKWCH,Iron deficiency
+DISVMYJO,Respiratory failure
+DISVO1I5,Cardiac disease
+DISVONJE,Sepsis
+DISVOTZQ,Epidermolysis bullosa
+DISVP3U5,Verruca vulgaris
+DISVS67S,Vascular disease
+DISVS9H7,Wilson disease
+DISVT8B1,Itching
+DISVVID8,Radiographic contrast medium
+DISVX3M9,Staining
+DISVYKGN,Skin infection
+DISVZBI4,Neuroblastoma
+DISW0LMR,Endometrial cancer
+DISW194A,Reproduction
+DISW1TFK,Central precocious puberty
+DISW25G5,Sickle-cell disorder
+DISW6UF1,Autoimmune diabetes
+DISW7E3U,Vibrio cholerae infection
+DISW82R7,Chronic kidney disease
+DISW96AL,Growth failure
+DISW9PM9,Reticular veins
+DISW9QNS,Asthma
+DISWA6CS,Influenza A virus infection
+DISWASB4,Female hypogonadism
+DISWBAEE,Ophthalmic surgery injury
+DISWG0OP,Tinea pedis
+DISWGWLP,Neisseria gonorrhoeae infection
+DISWH7BV,Thyrotoxicosis
+DISWKMCK,Hepatitis virus infection
+DISWQR4J,Pelvic inflammatory disease
+DISWQVXE,Tripeptidyl peptidase 1 deficiency
+DISWRAVC,Japanese encephalitis virus infection
+DISWRDO1,Spider veins
+DISWSSQH,Psychomotor agitation
+DISWT35Z,Functional dyspepsia
+DISWTJQL,Diarrhea
+DISWWK11,Essential thrombocythemia
+DISWWLTC,Gastric adenocarcinoma
+DISWYLB3,Pediatric cancer
+DISX0TUZ,Vertigo meniere disease
+DISX0WOV,Spinal anesthesia
+DISX1AG8,Endometriosis
+DISX1RDP,Ovulation dysfunction
+DISX2OUL,Hodgkin lymphoma
+DISX61LX,Human papillomavirus infection
+DISX6A86,Vaccination
+DISX6UHX,Stroke
+DISX6VF8,Diabetic neuropathy
+DISX7DLD,Rotavirus infection (Diarrhoea)
+DISX87ZH,Hyperthyroidism
+DISX9CEW,Parasitic infection
+DISXEPZF,Gynecological disease
+DISXGOUK,Gastric cancer
+DISXHWCS,Fallopian tube cancer
+DISXK8NV,Autism spectrum disorder
+DISXL1WY,Dementia
+DISXRS8Y,Chronic pain
+DISXSU1Y,Peripheral vascular disease
+DISXSUID,Measles
+DISXTDNT,Hereditary hemorrhagic telangiectasia
+DISXTE5N,Gastric motility disorder
+DISXVPHM,Diabetic foot ulcer
+DISXVSAE,Contraception
+DISXWCFK,Chronic/stable angina
+DISXYI2Z,Idiopathic multicentric Castlemans disease
+DISY0GMP,Gastric secretory disorder
+DISY1BZY,C. difficile infection
+DISY1DPK,Zinc deficiency
+DISY2OHH,High blood pressure
+DISY55BU,Hutchinson-Gilford progeria syndrome
+DISY5SZC,Dermatitis
+DISY5UJH,Acute gouty arthritis
+DISY6N47,Acute bronchial asthma
+DISY8WGS,Staphylococcus infection
+DISY8YRF,Acute gout flare
+DISYCEBW,Bupicavaine toxicity
+DISYD5IX,Bone marrow transplantation
+DISYEEY6,Dyspepsia
+DISYGQZI,Tenosynovial giant cell tumour
+DISYHNUI,Myelodysplastic syndrome
+DISYI6GA,Hospital-acquired pneumonia
+DISYJ8IL,Immune thrombocytopenic purpura
+DISYJQJQ,Type 1 gaucher disease
+DISYKID5,HER2/NEU overexpressing breast cancer
+DISYKSRF,Genetic disease
+DISYLZJ4,River blindness
+DISYNSM9,Hypotension
+DISYOTXL,Myelofibrosis
+DISYP8FH,Toxoplasmosis
+DISYQA6Y,Bone induction
+DISYR47G,Bone related disease
+DISYV7YJ,Ischemic stroke
+DISYVDDA,Neonatal respiratory distress
+DISYWN2O,Achondroplasia
+DISYX23I,Peritoneal cancer
+DISYXE48,Acute heart failure
+DISZ0CPT,Adrenocortical insufficiency
+DISZ1FMV,Anal fissure
+DISZ2BNG,Polycystic ovarian syndrome
+DISZ3PL0,Hunter syndrome
+DISZ44JH,Gram-positive bacterial infection
+DISZ5FV0,Jock itch
+DISZ5ZJN,Allergic conjunctivitis
+DISZ74WG,Constitutional neutropenia
+DISZ8786,Ringworm infection
+DISZ8MTK,IgA nephropathy
+DISZA94A,Acute radiation syndrome
+DISZAPEJ,Large B-cell lymphoma
+DISZBIQ2,Hypothalamic hypogonadism
+DISZBO2J,Wet age-related macular degeneration
+DISZBU97,Nausea and vomiting
+DISZD9W7,Nicotine dependence
+DISZE4FB,Cryopyrin-associated periodic syndromes
+DISZF4HX,Adrenocortical carcinoma
+DISZFTMH,Hantavirus infection
+DISZGA69,Idiopathic pulmonary fibrosis
+DISZH8OD,Painful bladder syndrome
+DISZHG50,Inflammatory arthritis
+DISZISDG,Gonorrheal vaginitis
+DISZIV9N,Tuberculosis
+DISZJDS2,Fibromyalgia
+DISZJHAP,Ovarian cancer
+DISZM7OB,Chronic idiopathic constipation
+DISZR48F,Solid tumour/cancer
+DISZSKDG,Infantile spasm
+DISZU93H,Herbicide
+DISZWM55,Diphtheria
+DISZX24B,Secondary hyperparathyroidism
